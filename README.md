@@ -1,4 +1,4 @@
-*MACHINE LEARNING LAB 🤖
+MACHINE LEARNING LAB 🤖
 
 A collection of machine learning laboratory experiments implemented using Python and Jupyter Notebooks.
 
